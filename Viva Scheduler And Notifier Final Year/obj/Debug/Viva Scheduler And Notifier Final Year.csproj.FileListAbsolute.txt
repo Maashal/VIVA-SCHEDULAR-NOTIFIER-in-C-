@@ -1,0 +1,25 @@
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\Viva Scheduler And Notifier Final Year.exe.config
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\Viva Scheduler And Notifier Final Year.exe
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\Viva Scheduler And Notifier Final Year.pdb
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\FontAwesome.Sharp.dll
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.Form1.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.Properties.Resources.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.csproj.GenerateResource.cache
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.csproj.CoreCompileInputs.cache
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.csproj.CopyComplete
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.exe
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.pdb
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\Data\VSN.mdf
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\bin\Debug\Data\VSN_log.ldf
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.HomeUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.CampusesUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.AddCampusUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.StudentsUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.AddStudentUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.VivasUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.AddVivaUC.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.RescheduleViva.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.Settings.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva Scheduler And Notifier Final Year.csprojAssemblyReference.cache
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.BatchViva.resources
+D:\Programming\VU Projects\Viva Scheduler And Notifier Final Year\Viva Scheduler And Notifier Final Year\obj\Debug\Viva_Scheduler_And_Notifier_Final_Year.UserControls.StudentListItem.resources
